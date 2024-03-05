@@ -2,6 +2,6 @@
 
 ### Projects
 
-#### Bank Customer Chrun Prediction
+- Bank Customer Chrun Prediction
 
-#### London Crime Analysis and Prediction 
+- London Crime Analysis and Prediction 
