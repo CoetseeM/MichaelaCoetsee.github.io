@@ -60,6 +60,7 @@ Model Selection and Evaluation: Random Forest and Support Vector Classifier (SVC
 
 **_Improvements:_**
 -I would use cross validation to improve this project as this is industry standard and more reliable in model evaluation.
+
 -I would experiment more with ensemble models such as Adaboost as these models can handle class imbalances.
 
 **_Link to code:_** [Bank Customer Chrun](https://github.com/CoetseeM/Customer-Churn-Prediction)
@@ -93,7 +94,7 @@ Model Selection and Evaluation: Random Forest and Support Vector Classifier (SVC
 
 **_Technologies:_** Tableau and Excel
 
-**_Method:_** Imported and connected to NHS vaccination and deaths data. Cleaned and transformed the data, created boxplots, area graphs, bar charts, line graphs, pie charts and UK geographical graphs. Interpreted findings and organised presentation slides to address each of the outlined goals using visulaisations. Conveyed findings to a non expert audience verbally using the created slides.
+**_Method:_** Imported and connected to NHS vaccinations, addmissions and deaths data. Cleaned and transformed the data, created boxplots, area graphs, bar charts, line graphs, pie charts and UK geographical graphs. Interpreted findings and organised presentation slides to address each of the outlined goals using visulaisations. Conveyed findings to a non-expert audience through a presentation using the created slides.
 
 **_Outcome:_** A presentation that I recieved a high distinction for (90%).
 
