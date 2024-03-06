@@ -33,7 +33,7 @@ The Random Forest Regressor emerged as the best-performing model, explaining 80.
 
 **_Improvements:_** Due to time contraints I was only able to look at overall crime rates in London but to further improve this project I would look at the influence that soci-economic factors play on specific crimes in London and I would try to find more open source socio-economic factor data measuring things like inequality and average household income. I also think it would be interesting to observe the effects of weather on crime rates. Furthermore, I would break up the code into different notebooks such as cleaning and processing, exploratory analysis, models etc rather than one long notebook of code to make it easier for others to read.
 
-**_Link to code:_** [London Crime Analysis and Prediction](https://github.com/Micky48/Final_Project)
+**_Link to code:_** [London Crime Analysis and Prediction](https://github.com/CoetseeM/Final_Project)
 
 <br>
 <br>
@@ -62,7 +62,7 @@ Model Selection and Evaluation: Random Forest and Support Vector Classifier (SVC
 -I would use cross validation to improve this project as this is industry standard and more reliable in model evaluation.
 -I would experiment more with ensemble models such as Adaboost as these models can handle class imbalances.
 
-**_Link to code:_** [Bank Customer Chrun](https://github.com/Micky48/Customer-Churn-Prediction)
+**_Link to code:_** [Bank Customer Chrun](https://github.com/CoetseeM/Customer-Churn-Prediction)
 
 <br>
 <br>
