@@ -14,7 +14,7 @@
 
 **_Outcome:_** An academic style report for my Ai and Machine learning module during my MSc in Data Science, I recieved a high distinction (81%).
 
-**_Improvements:_ **
+**_Improvements:_**
 
 **_Link:_** https://github.com/Micky48/Customer-Churn-Prediction
 
