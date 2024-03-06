@@ -61,7 +61,7 @@ Data was then turned into an array using numpy, data was then split into 80% tra
 
 ## COVID-19 Vaccination and Death Rates
 
-**_Task Description:_** Using NHS open source data explore how the vaccines effected COVID-19 hospital admissions and deaths in the UK.
+**_Task Description:_** Using NHS open source data explore how the vaccines effected COVID-19 hospital admissions and deaths in England.
 
 **_Goal:_** 
 1. How do weekly admissions and weekly deaths compare following the first COVID-19 vaccine in England?
@@ -80,4 +80,14 @@ Data was then turned into an array using numpy, data was then split into 80% tra
 
 **_Outcome:_** A presentation, I recieved a high distinction (90%).
 
-**_Graphs:_**
+**_Graphs:_** 
+![Boxplots](URL "COVID-19 Death Statistics")
+
+![Geo](URL "Total Yearly Admissions by English Region")
+
+![Area](URL "Weekly Deaths by English Region between 2020 and 2023")
+
+![Pie](URL "Vaccination Dose Break Down for England")
+
+
+
