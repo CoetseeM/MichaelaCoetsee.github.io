@@ -2,26 +2,6 @@
 
 ## <u>Predictive Machine Learning Projects</u>
 
-## Analysis and Prediction of Bank Customer Attrition
-  
-**_Task Description:_** The task for this project was to design a pipeline that conisted of preliminary analysis, selection of machine learning methods, training and test data splitting, metrics selection and evaluation. 
-
-**_Goal:_** The goal was to help a business manager of a consumer credit card portfolio to understand why customers were closing thier accounts and to predict which customers were likely to close their account in the future so that the manager could impliment strategies to combat customer attrition.
-
-**_Technologies:_** Python, scikit-learn, pandas, numpy, matplotlib.
-
-**_Method:_** I designed a pipeline, an evaluation strategy and a set of experiments to determin the best parameters and machine learning algorithm based on the results of empirical evlautaions derived from the dataset.
-
-**_Outcome:_** An academic style report for my Ai and Machine learning module during my MSc in Data Science, I recieved a high distinction (81%).
-
-**_Improvements:_**
-
-**_Link to code:_** [Bank Customer Churn](https://github.com/Micky48/Customer-Churn-Prediction)
-
-
-<br>
-
-
 ## London Crime and the Influences of Socio-economic Factors 
   
 **_Task Description:_** Create a data science project with at least 800 lines of code and a 15,000 word report on a project of your choosing or from the list of suggested projects by supervisors. I decidedto conduct my own project and intitally wanted to look at increasing diversity in the outdoors, however I was unable to use the data in the end so decided to look at crime rates in London based on socio-economic factors instead. 
@@ -53,6 +33,24 @@ Data was then turned into an array using numpy, data was then split into 80% tra
 
 **_Link to code:_** [London Crime Analysis and Prediction](https://github.com/Micky48/Final_Project)
 
+<br>
+<br>
+
+## Analysis and Prediction of Bank Customer Attrition
+  
+**_Task Description:_** The task for this project was to design a pipeline that conisted of preliminary analysis, selection of machine learning methods, training and test data splitting, metrics selection and evaluation. 
+
+**_Goal:_** The goal was to help a business manager of a consumer credit card portfolio to understand why customers were closing thier accounts and to predict which customers were likely to close their account in the future so that the manager could impliment strategies to combat customer attrition.
+
+**_Technologies:_** Python, scikit-learn, pandas, numpy, matplotlib.
+
+**_Method:_** I designed a pipeline, an evaluation strategy and a set of experiments to determin the best parameters and machine learning algorithm based on the results of empirical evlautaions derived from the dataset.
+
+**_Outcome:_** An academic style report for my Ai and Machine learning module during my MSc in Data Science, I recieved a high distinction (81%).
+
+**_Improvements:_**
+
+**_Link to code:_** [Bank Customer Churn](https://github.com/Micky48/Customer-Churn-Prediction)
 
 <br>
 <br>
@@ -74,7 +72,7 @@ Data was then turned into an array using numpy, data was then split into 80% tra
 8. What percentage of each vaccine dose was administered?
 
 
-**_Technologies:_** Tableau
+**_Technologies:_** Tableau and Excel
 
 **_Method:_** Imported and connected to NHS vaccination and deaths data. Cleaned and transformed the data, created boxplots, area graphs, bar charts, line graphs, pie charts and UK geographical graphs. Interpreted findings and organised presentation slides to address each of the outlined goals using visulaisations. Conveyed findings to a non expert audience verbally using the created slides.
 
