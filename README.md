@@ -16,7 +16,7 @@
 
 **_Improvements:_**
 
-**_Link:_** [Bank Customer Churn](https://github.com/Micky48/Customer-Churn-Prediction)
+**_Link to code:_** [Bank Customer Churn](https://github.com/Micky48/Customer-Churn-Prediction)
 
 
 <br>
@@ -40,7 +40,7 @@ Data was then turned into an array using numpy, data was then split into 80% tra
 
 **_Improvements:_** Due to time contraints I was only able to look at overall crime rates in London but to further improve this project I would look at the influence that soci-economic factors play on specific crimes in London and I would try to find more open source socio-economic factor data measuring things like inequality and average household income. I also think it would be interesting to observe the effects of weather on crime rates.
 
-**_Link:_** [London Crime Analysis and Prediction](https://github.com/Micky48/Final_Project)
+**_Link to code:_** [London Crime Analysis and Prediction](https://github.com/Micky48/Final_Project)
 
 
 <br>
