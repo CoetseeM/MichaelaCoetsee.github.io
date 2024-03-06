@@ -1,5 +1,7 @@
 # Projects
 
+## <u>Python Projects</u>
+
 ## London Crime Analysis and Prediction
   
 **_Task Description:_** Create a data science project with at least 800 lines of code and a 15,000 word report on a project of your choosing or from the list of suggested projects by supervisors. I decidedto conduct my own project and intitally wanted to look at increasing diversity in the outdoors, however I was unable to use the data in the end so decided to look at crime rates in London based on socio-economic factors instead. 
@@ -30,6 +32,13 @@ Data was then turned into an array using numpy, data was then split into 80% tra
 **_Improvements:_** Due to time contraints I was only able to look at overall crime rates in London but to further improve this project I would look at the influence that soci-economic factors play on specific crimes in London and I would try to find more open source socio-economic factor data measuring things like inequality and average household income. I also think it would be interesting to observe the effects of weather on crime rates. Furthermore, I would break up the code into different notebooks such as cleaning and processing, exploratory analysis, models etc rather than one long notebook of code to make it easier for others to read.
 
 **_Link to code:_** [London Crime Analysis and Prediction](https://github.com/Micky48/Final_Project)
+
+<br>
+<br>
+
+## <u>R Projects</u>
+
+## Statistical Analysis of Housing Data 
 
 <br>
 <br>
