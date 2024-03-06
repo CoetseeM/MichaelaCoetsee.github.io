@@ -2,7 +2,7 @@
 
 ## Predictive Machine Learning Projects
 
-### Analysis and Prediction of Bank Customer Attrition
+## Analysis and Prediction of Bank Customer Attrition
   
 **_Task Description:_** The task for this project was to design a pipeline that conisted of preliminary analysis, selection of machine learning methods, training and test data splitting, metrics selection and evaluation. 
 
@@ -22,7 +22,7 @@
 <br>
 
 
-### London Crime and the Influence of Socio-economic Factors 
+## London Crime and the Influence of Socio-economic Factors 
   
 **_ Task Description:_** hypotheses 
 
