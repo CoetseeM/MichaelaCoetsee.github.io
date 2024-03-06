@@ -37,4 +37,4 @@ _Outcome:_ A 15,000 word academic journal article written in Latex for my MSc Da
 
 _Improvements:_ Due to time contraints I was only able to look at overall crime rates in London but to further improve this project I would look at the influence that soci-economic factors play on specific crimes in London and I would try to find more open source socio-economic factor data measuring things like inequality and houshold income. I also think it would be interesting to observe the effects of weather on crime rates.
 
-_Link:_ London Crime Analysis and Prediction
+_Link:_ https://github.com/Micky48/Final_Project
