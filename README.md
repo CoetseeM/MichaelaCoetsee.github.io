@@ -76,7 +76,7 @@ Data was then turned into an array using numpy, data was then split into 80% tra
 
 **_Method:_** Imported and connected to NHS vaccination and deaths data. Cleaned and transformed the data, created boxplots, area graphs, bar charts, line graphs, pie charts and UK geographical graphs. Interpreted findings and organised presentation slides to address each of the outlined goals using visulaisations. Conveyed findings to a non expert audience verbally using the created slides.
 
-**_Outcome:_** A presentation, I recieved a high distinction (90%).
+**_Outcome:_** A presentation that I recieved a high distinction for (90%).
 
 **_Graphs:_** 
 ![Whoops! No image](Boxplots.png "COVID-19 Death Statistics")
