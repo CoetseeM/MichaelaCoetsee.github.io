@@ -2,5 +2,4 @@ title: Michaela Coetsee - Data Science Portfolio
 description: A driven MSc Data Science graduate experiencd in research, with a passion for continuous learning and utilising data science for social good.
 show_downloads: false
 github: false
-remote_theme: "poole/hyde"
-theme: jekyll-theme-hyde
+theme: jekyll-theme-minimal-mistakes
