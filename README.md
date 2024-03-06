@@ -2,7 +2,7 @@
 
 ## <u>Python Projects</u>
 
-## London Crime Analysis and Prediction
+## - London Crime Analysis and Prediction
   
 **_Task Description:_** Create a data science project with at least 800 lines of code and a 15,000 word report on a project of your choosing or from the list of suggested projects by supervisors. I decidedto conduct my own project and intitally wanted to look at increasing diversity in the outdoors, however I was unable to use the data in the end so decided to look at crime rates in London based on socio-economic factors instead. 
 
