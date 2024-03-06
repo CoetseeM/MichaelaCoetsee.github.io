@@ -84,6 +84,9 @@ Data was then turned into an array using numpy, data was then split into 80% tra
 **_Outcome:_** A presentation that I recieved a high distinction for (90%).
 
 **_Graphs:_** 
+I have included 4 of the graphs I created as a showcase, however this is not an exaustive list and these 4 graphs do not address all of the listed goals that I addressed using Tableau or in my presentation.
+
+
 ![Whoops! No image](Boxplots.png "COVID-19 Death Statistics")
 
 ![Whoops! No image](Area.png "Weekly Deaths by English Region between 2020 and 2023")
