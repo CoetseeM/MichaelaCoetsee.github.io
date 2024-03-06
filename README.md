@@ -22,11 +22,22 @@
 <br>
 
 
-## London Crime and the Influence of Socio-economic Factors 
+## London Crime and the Influences of Socio-economic Factors 
   
-**_Task Description:_** hypotheses 
+**_Task Description:_** Create a data science project with at least 800 lines of code and a 15,000 word report on a project of your choosing or from the list of suggested projects by supervisors. I decidedto conduct my own project and intitally wanted to look at increasing diversity in the outdoors, however I was unable to use the data in the end so decided to look at crime rates in London based on socio-economic factors instead. 
 
-**_Goal:_** Create a data science project with at least 800 lines of code and a 15,000 word report on a project of your choosing or from the list of suggested projects by supervisors. I decidedto conduct my own project and intitally wanted to look at increasing diversity in the outdoors, however I was unable to use the data in the end so decided to look at crime rates in London based on socio-economic factors instead.
+**_Goal:_** Utilise data analysis and machine learning techniques to:
+• 1. Identify the trends in overall crime between 2011 and 2021 in London and provide
+potential explanations.
+• 2. Identify the crimes types that most affected London between 2011 and 2021.
+• 3. Identify the monthly trends in the top 5 major crime types that affected London
+between 2011 and 2021.
+• 4. Identify the boroughs with the highest and lowest overall crime rates while taking
+into account population size.
+• 5. Investigate whether socio-economic factors such as unemployment rate
+(percentage), annual income (median), people earning below the London Living
+Wage (percentage) and population density by square kilometer are effective in
+predicting overall crime in London using machine learning models.
 
 **_Technologies:_** Python, scikit-learn, pandas, numpy, matplotlib, seaborn and Tableau.
 
