@@ -1,8 +1,6 @@
 # Projects
 
-## <u>Predictive Machine Learning Projects</u>
-
-## London Crime and the Influences of Socio-economic Factors 
+## London Crime Analysis and Prediction
   
 **_Task Description:_** Create a data science project with at least 800 lines of code and a 15,000 word report on a project of your choosing or from the list of suggested projects by supervisors. I decidedto conduct my own project and intitally wanted to look at increasing diversity in the outdoors, however I was unable to use the data in the end so decided to look at crime rates in London based on socio-economic factors instead. 
 
@@ -32,25 +30,6 @@ Data was then turned into an array using numpy, data was then split into 80% tra
 **_Improvements:_** Due to time contraints I was only able to look at overall crime rates in London but to further improve this project I would look at the influence that soci-economic factors play on specific crimes in London and I would try to find more open source socio-economic factor data measuring things like inequality and average household income. I also think it would be interesting to observe the effects of weather on crime rates.
 
 **_Link to code:_** [London Crime Analysis and Prediction](https://github.com/Micky48/Final_Project)
-
-<br>
-<br>
-
-## Analysis and Prediction of Bank Customer Attrition
-  
-**_Task Description:_** The task for this project was to design a pipeline that conisted of preliminary analysis, selection of machine learning methods, training and test data splitting, metrics selection and evaluation. 
-
-**_Goal:_** The goal was to help a business manager of a consumer credit card portfolio to understand why customers were closing thier accounts and to predict which customers were likely to close their account in the future so that the manager could impliment strategies to combat customer attrition.
-
-**_Technologies:_** Python, scikit-learn, pandas, numpy, matplotlib.
-
-**_Method:_** I designed a pipeline, an evaluation strategy and a set of experiments to determin the best parameters and machine learning algorithm based on the results of empirical evlautaions derived from the dataset.
-
-**_Outcome:_** An academic style report for my Ai and Machine learning module during my MSc in Data Science, I recieved a high distinction (81%).
-
-**_Improvements:_**
-
-**_Link to code:_** [Bank Customer Churn](https://github.com/Micky48/Customer-Churn-Prediction)
 
 <br>
 <br>
