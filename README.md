@@ -81,13 +81,13 @@ Data was then turned into an array using numpy, data was then split into 80% tra
 **_Outcome:_** A presentation, I recieved a high distinction (90%).
 
 **_Graphs:_** 
-![Boxplots.png](URL "COVID-19 Death Statistics")
+![Whoops! No image](Boxplots.png "COVID-19 Death Statistics")
 
-![Geo.png](URL "Total Yearly Admissions by English Region")
+![Whoops! No image](Geo.png "Total Yearly Admissions by English Region")
 
-![Area.png](URL "Weekly Deaths by English Region between 2020 and 2023")
+![Whoops! No image](Area.png "Weekly Deaths by English Region between 2020 and 2023")
 
-![Pie.png](URL "Vaccination Dose Break Down for England")
+![Whoops! No image](Pie.png "Vaccination Dose Break Down for England")
 
 
 
