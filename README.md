@@ -1,6 +1,6 @@
 # Projects
 
-## Predictive Machine Learning Projects
+## <u>Predictive Machine Learning Projects</u>
 
 ## Analysis and Prediction of Bank Customer Attrition
   
