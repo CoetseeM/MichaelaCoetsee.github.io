@@ -19,11 +19,15 @@ predicting overall crime in London using machine learning models.
 
 **_Technologies:_** Python, scikit-learn, pandas, numpy, matplotlib, seaborn and Tableau.
 
-**_Method:_** Using open source data from the London Datastore I gathered Recorded Crime: Geographic Breakdown (csv) for 12 different crimes by London borough by mm/yyyy, The Land Area and Population Density, Ward and Borough (csv) for population density by London borough by mm/yyyy , The Employees Earning Below the London Living Wage (LLW) (xls) for % of people erning below the LLW by London borough by mm/yyyy, The Model Based Unemployment Estimates (xls) for uneployment rates by London borough by mm/yyyy, Earnings by Workplace, Borough (xls) for data on workplace based annual median earnings by London borough by mm/yyyy. 
+**_Method:_** The project utilised open-source data from the London Datastore to analyze crime rates in London boroughs. Various socio-economic factors, such as population density, median earnings, unemployment rates, and percentage of people earning under the London Living Wage (LLW) were collected and processed to understand their impact on crime rates.
 
-These datasets were then checked, missing values were imputed or columns/rows dropped, duplicates were removed, column names were standardised, datasets were reshaped and merged by borough and date then aggregated by various combinations of borough, year, month etc for analysis. Feature engineering was conducted to gain crime rates by borough which took into consideration borough population size. Exploratory data analysis was conducted looking at descriptive statistics, visulisations including histograms, boxplots, heatmaps and scatterplots to observe distribution, outliers and correlations. Copies of the data were created with normalisation and without normalisation and with outliers included and with outliers (outliers appeared to be genuine high or low data crime rates) removed to observe the difference in model perfromances. Feature selection was used such as K Select best to observe which socio-economic factors were thought to be most important in predicting crime rates. 
+Data preprocessing involved handling missing values, removing duplicates, standardising column names, and aggregating data by borough and time period. Feature engineering techniques were applied to calculate adjusted crime rates considering borough population sizes.
 
-Data was then turned into an array using numpy, data was then split into 80% training data and 20% test data. Predictive models such as Random Forest Regressor and Support Vector Regression were used to try to predict crime rate in London using the socio-economic factors (multiple linear regression was also observed but not used as the assumptions were not met). Numerous model experimentations (hyperparameter tuning) and evaluations then took place on the training data using cross validation. The evaluation metrics used were MSE, MAE, RMSE, R2, MBD and a learning curve visualisation. The final models were then tested on the test data with the best performing model being the Random Forest Regressor on the data with outliers removed explaining 80.4% of variance in London crime rates. The hyperparameters were: n_estimators = 100, max_depth = 10, min_samples_leaf = 2, max_leaf_nodes = 10. Random Forest Regressors feature importance graph suggested that population density contributed the most to predicting Lodnon crime rate, followed by median income.
+Exploratory data analysis was conducted using descriptive statistics and visualisations to identify patterns, outliers, and correlations among variables. Multiple copies of the dataset were created with normalization and outlier handling to observe their effects on predictive model performance.
+
+Predictive modeling was performed using machine learning algorithms such as Random Forest Regressor and Support Vector Regression. Hyperparameter tuning and cross-validation were employed to optimise model performance, with evaluation metrics including MSE, MAE, RMSE, R2, MBD, and learning curve analysis.
+
+The Random Forest Regressor emerged as the best-performing model, explaining 80.4% of the variance in London crime rates. Population density was identified as the most significant predictor of crime rates, followed by median income, according to Random Forest Regressor's feature importance analysis.
 
 **_Outcome:_** A 15,000 word academic journal article written in Latex for my MSc Data Science final project, I recieved a high distinction (76%).
 
@@ -34,7 +38,7 @@ Data was then turned into an array using numpy, data was then split into 80% tra
 <br>
 <br>
 
-## - Bank Customer Churn Analysis and Prediction
+## - Bank Customer Churn, Analysis and Classification
 
 **_Task Description:_** Design a pipeline, an evaluation strategy, and a set of experiments to determine the best parameters and machine learning algorithm, based on the results of empirical evaluations derived from a dataset, compare different algorithms. 
 
@@ -43,10 +47,17 @@ Data was then turned into an array using numpy, data was then split into 80% tra
 **_Technologies:_** Python, pandas, numpy, scikit-learn, matplotlib.
 
 **_Method:_** 
+Dataset Overview: The dataset comprised credit card portfolios of 10,127 customers, containing 21 features including numerical and categorical variables.
+Data Preprocessing: Preliminary analysis revealed no null values in the dataset. Categorical features were one-hot encoded, while ordinal features were encoded based on predefined categories. Feature engineering techniques were applied to create new features or modify existing ones.
+Data Splitting: The dataset was split into training and test sets using an 80/20 ratio.
+Data Transformation: Numerical features underwent standardisation to bring them to a common scale, improving the model results.
+Model Selection and Evaluation: Random Forest and Support Vector Classifier (SVC) models were selected for predicting churn. Model hyperparameters were tuned, and performance was evaluated using accuracy, precision, recall, and F1-score metrics which are commonly used for classification tasks.
 
-**_Outcome:_** An academic style report, meticulously documenting each step of the process, I recieved a high distinction (81%).
+**_Outcome:_** A detailed and concise academic style report, meticulously documenting each step of the process, I recieved a high distinction (81%).
 
-**_Improvements:_** To improve this project I would use cross validation as this is industry standard and more reliable in model evaluation.
+**_Improvements:_**
+-I would use cross validation to improve this project as this is industry standard and more reliable in model evaluation.
+-I would experiment more with ensemble models such as Adaboost as these models can handle class imbalances.
 
 **_Link to code:_** [Bank Customer Chrun](https://github.com/Micky48/Customer-Churn-Prediction)
 
