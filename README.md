@@ -34,6 +34,25 @@ Data was then turned into an array using numpy, data was then split into 80% tra
 <br>
 <br>
 
+## - Bank Customer Churn Analysis and Prediction
+
+**_Task Description:_** Design a pipeline, an evaluation strategy, and a set of experiments to determine the best parameters and machine learning algorithm, based on the results of empirical evaluations derived from a dataset, compare different algorithms. 
+
+**_Goal:_** A business manager of a consumer credit card portfolio is facing the problem of customer attrition. They want to analyse the data to find out the reason behind this and leverage the same to predict customers who are likely to drop off.
+
+**_Technologies:_** Python, pandas, numpy, scikit-learn, matplotlib.
+
+**_Method:_** 
+
+**_Outcome:_** An academic style report, meticulously documenting each step of the process, I recieved a high distinction (81%).
+
+**_Improvements:_** To improve this project I would use cross validation as this is industry standard and more reliable in model evaluation.
+
+**_Link to code:_** [Bank Customer Chrun](https://github.com/Micky48/Customer-Churn-Prediction)
+
+<br>
+<br>
+
 # <u>R Projects</u>
 
 ## - Statistical Analysis of Housing Data 
