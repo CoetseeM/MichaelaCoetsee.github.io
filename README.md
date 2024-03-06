@@ -60,3 +60,24 @@ Data was then turned into an array using numpy, data was then split into 80% tra
 ## <u>Tableau Projects</u>
 
 ## COVID-19 Vaccination and Death Rates
+
+**_Task Description:_** Using NHS open source data explore how the vaccines effected COVID-19 hospital admissions and deaths in the UK.
+
+**_Goal:_** 
+1. How do weekly admissions and weekly deaths compare following the first COVID-19 vaccine in England?
+2. How do admissions and deaths differ by year and English Region?
+3. Do weekly deaths decrease following the first vaccine in England?
+4. Which regions in England had the highest number of deaths each year?
+5. How did lockdowns effect admissions and death rates in England?
+6. How do total admissions and deaths compare weekly across all of England?
+7. How do vaccine roll outs effect admissions and deaths?
+8. What percentage of each vaccine dose was administered?
+
+
+**_Technologies:_** Tableau
+
+**_Method:_** Imported and connected to NHS vaccination and deaths data. Cleaned and transformed the data, created boxplots, area graphs, bar charts, line graphs, pie charts and UK geographical graphs. Interpreted findings and organised presentation slides to address each of the outlined goals using visulaisations. Conveyed findings to a non expert audience verbally using the created slides.
+
+**_Outcome:_** A presentation, I recieved a high distinction (90%).
+
+**_Graphs:_**
