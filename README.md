@@ -57,7 +57,7 @@ Data was then turned into an array using numpy, data was then split into 80% tra
 
 ## <u>Tableau Projects</u>
 
-## COVID-19 Vaccination and Death Rates
+## COVID-19 Vaccinations and Death Rates
 
 **_Task Description:_** Using NHS open source data explore how the vaccines effected COVID-19 hospital admissions and deaths in England.
 
