@@ -48,8 +48,11 @@ The Random Forest Regressor emerged as the best-performing model, explaining 80.
 
 **_Method:_** 
 Dataset Overview: The dataset comprised credit card portfolios of 10,127 customers, containing 21 features including numerical and categorical variables.
+
 Data Preprocessing: Preliminary analysis revealed no null values in the dataset. Categorical features were one-hot encoded, while ordinal features were encoded based on predefined categories. Feature engineering techniques were applied to create new features or modify existing ones.
+
 Data Splitting: The dataset was split into training and test sets using an 80/20 ratio.
+
 Data Transformation: Numerical features underwent standardisation to bring them to a common scale, improving the model results.
 Model Selection and Evaluation: Random Forest and Support Vector Classifier (SVC) models were selected for predicting churn. Model hyperparameters were tuned, and performance was evaluated using accuracy, precision, recall, and F1-score metrics which are commonly used for classification tasks.
 
