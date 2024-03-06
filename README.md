@@ -42,6 +42,10 @@ _Outcome:_ A 15,000 word academic journal article written in Latex for my MSc Da
 
 **_Link:_** [London Crime Analysis and Prediction](https://github.com/Micky48/Final_Project)
 
+
+<br>
+<br>
+
 ## <u>Tableau Projects</u>
 
 ## COVID-19 Vaccination and Death Rates
