@@ -68,13 +68,6 @@ Model Selection and Evaluation: Random Forest and Support Vector Classifier (SVC
 <br>
 <br>
 
-# <u>R Projects</u>
-
-## - Statistical Analysis of Housing Data 
-
-<br>
-<br>
-
 # <u>Tableau Projects</u>
 
 ## - COVID-19 Vaccinations and Death Rates
