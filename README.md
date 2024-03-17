@@ -1,6 +1,6 @@
 # <u>Python Projects</u>
 
-## - Met Office Mean Temperature Prediction
+## - Met Office Mean Temperature Prediction (current project)
   
 **_Task Description:_** The climate emergency needs urgent solutions. Machine learning is being increasingly implemented into weather services and climate research, increasing accuracy and providing new pathways to mitigation and adaptation. This project aimed to predict mean temperatures in London between 1948 and 2020, to assess the ability of a range of machine learning models to accurately predict weather elements based on previous research findings.
 
