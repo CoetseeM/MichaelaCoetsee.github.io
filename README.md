@@ -8,7 +8,7 @@
 **_Goal:_** 
 
 
-**_Technologies:_** Python, scikit-learn, pandas, numpy, matplotlib and seaborn.
+**_Technologies:_** Scikit-learn, pandas, matplotlib and seaborn.
 
 **_Method:_** The project utilised open-source Met Office data downloaded from kaggle (https://www.kaggle.com/datasets/muthuj7/weather-dataset) to predict recent mean temperatures in London. 
 
@@ -22,9 +22,9 @@ The Random Forest Regressor emerged as the best-performing model, explaining 80.
 
 **_Outcome:_** 
 
-**_Improvements:_** 
+**_Improvements:_** Due to data constraints there wasn't enough data to use more recent mean temperture data as the test set, this could improve the prediction of the model on more recent data so that the model can then be used for forecasting.
 
-**_Link to code:_** [Met Office Recent Mean Temperture Prediction]()
+**_Link to code:_** [Met Office Mean Temperture Prediction]()
 
 <br>
 <br>
@@ -46,7 +46,7 @@ into account population size.
 Wage (percentage) and population density by square kilometer are effective in
 predicting overall crime in London using machine learning models.
 
-**_Technologies:_** Python, scikit-learn, pandas, numpy, matplotlib, seaborn and Tableau.
+**_Technologies:_** Scikit-learn, pandas, numpy, matplotlib, seaborn and Tableau.
 
 **_Method:_** The project utilised open-source data from the London Datastore to analyze crime rates in London boroughs. Various socio-economic factors, such as population density, median earnings, unemployment rates, and percentage of people earning under the London Living Wage (LLW) were collected and processed to understand their impact on crime rates.
 
@@ -73,7 +73,7 @@ The Random Forest Regressor emerged as the best-performing model, explaining 80.
 
 **_Goal:_** A business manager of a consumer credit card portfolio is facing the problem of customer attrition. They want to analyse the data to find out the reason behind this and leverage the same to predict customers who are likely to drop off.
 
-**_Technologies:_** Python, pandas, numpy, scikit-learn, matplotlib.
+**_Technologies:_** Pandas, numpy, scikit-learn, matplotlib.
 
 **_Method:_** 
 Dataset Overview: The dataset comprised credit card portfolios of 10,127 customers, containing 21 features including numerical and categorical variables.
