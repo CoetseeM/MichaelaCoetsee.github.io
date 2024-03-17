@@ -1,5 +1,34 @@
 # <u>Python Projects</u>
 
+## - Met Office Mean Temperature Prediction
+  
+**_Task Description:_** 
+
+
+**_Goal:_** 
+
+
+**_Technologies:_** Python, scikit-learn, pandas, numpy, matplotlib and seaborn.
+
+**_Method:_** The project utilised open-source Met Office data downloaded from kaggle (https://www.kaggle.com/datasets/muthuj7/weather-dataset) to predict recent mean temperatures in London. 
+
+Data preprocessing involved handling missing values, removing duplicates, standardising column names, and aggregating data by borough and time period. Feature engineering techniques were applied to calculate adjusted crime rates considering borough population sizes.
+
+Exploratory data analysis was conducted using descriptive statistics and visualisations to identify patterns, outliers, and correlations among variables.
+
+Previous research suggested that ensemble regression methods such as Random Forest Regressor and Support Vector Regression were most accurate in temperture predictions. Hyperparameter tuning and cross-validation were employed to optimise model performance, with evaluation metrics including MSE, MAE, RMSE and R2.
+
+The Random Forest Regressor emerged as the best-performing model, explaining 80.4% of the variance in London crime rates. Population density was identified as the most significant predictor of crime rates, followed by median income, according to Random Forest Regressor's feature importance analysis.
+
+**_Outcome:_** 
+
+**_Improvements:_** 
+
+**_Link to code:_** [Met Office Recent Mean Temperture Prediction]()
+
+<br>
+<br>
+
 ## - London Crime Analysis and Prediction
   
 **_Task Description:_** Create a data science project with at least 800 lines of code and a 15,000 word report on a project of your choosing or from the list of suggested projects by supervisors. I decidedto conduct my own project and intitally wanted to look at increasing diversity in the outdoors, however I was unable to use the data in the end so decided to look at crime rates in London based on socio-economic factors instead. 
