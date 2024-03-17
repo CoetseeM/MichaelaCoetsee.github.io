@@ -2,21 +2,21 @@
 
 ## - Met Office Mean Temperature Prediction
   
-**_Task Description:_** 
+**_Task Description:_** The climate emergency needs urgent solutions. Machine learning is being increasingly implemented into weather services and climate research, increasing accuracy and providing new pathways to mitigation and adaptation. This project aimed to predict mean temperatures in London between 1948 and 2020, to assess the ability of a range of machine learning models to accurately predict weather elements based on previous research findings.
 
 
-**_Goal:_** 
+**_Goal:_** To use machine learning pipelines to predict mean temperature (target variable) in London using minimum temperature, maximum temperature and rain (feature variables).
 
 
-**_Technologies:_** Scikit-learn, pandas, matplotlib and seaborn.
+**_Technologies:_** Scikit-learn, pandas, matplotlin, seaborn and github version control.
 
 **_Method:_** The project utilised open-source Met Office data downloaded from kaggle (https://www.kaggle.com/datasets/muthuj7/weather-dataset) to predict recent mean temperatures in London. 
 
-Data preprocessing involved handling missing values, removing duplicates, standardising column names, and aggregating data by borough and time period. Feature engineering techniques were applied to calculate adjusted crime rates considering borough population sizes.
+Data preprocessing for this project involved exploring the data, identifying and handling missing values, and feature engineering techniques were used to calculate the mean temperature to use as the target variable.
 
-Exploratory data analysis was conducted using descriptive statistics and visualisations to identify patterns, outliers, and correlations among variables.
+Exploratory data analysis was then conducted using descriptive statistics and visualisations to identify, distributions, patterns, outliers, and correlations.
 
-Previous research suggested that ensemble regression methods such as Random Forest Regressor and Support Vector Regression were most accurate in temperture predictions. Hyperparameter tuning and cross-validation were employed to optimise model performance, with evaluation metrics including MSE, MAE, RMSE and R2.
+Previous research suggested that ensemble regression methods such as Random Forest Regressor and Support Vector Regression were most accurate in temperture prediction. Hyperparameter tuning and cross-validation were employed to optimise model performance, with evaluation metrics including MSE, MAE, RMSE and R2.
 
 The Random Forest Regressor emerged as the best-performing model, explaining 80.4% of the variance in London crime rates. Population density was identified as the most significant predictor of crime rates, followed by median income, according to Random Forest Regressor's feature importance analysis.
 
