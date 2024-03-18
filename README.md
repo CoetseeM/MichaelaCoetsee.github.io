@@ -19,7 +19,7 @@ A research review conducted by Bogdan and Zbigniew (2022) suggested that the mos
 
 This is my current project, if you would like to see my code, please follow the link below to my repository for the latest versions.
 
-**_Outcome:_** 
+**_Outcome:_** Learnt how to set up and use git for version control, 
 
 **_Improvements:_** 
 
