@@ -7,7 +7,7 @@
 
 **_Goal:_** To use machine learning pipelines to predict mean temperature (target variable) in London using minimum temperature, maximum temperature and rain (feature variables).
 
-**_Technologies:_** Scikit-learn, pandas, matplotlin, seaborn and git version control.
+**_Technologies:_** Scikit-learn, pandas, matplotlin, seaborn, pytorch and git version control.
 
 **_Method:_** The project utilised open-source Met Office data downloaded from kaggle (https://www.kaggle.com/datasets/muthuj7/weather-dataset) to predict recent mean temperatures in London. 
 
@@ -15,9 +15,9 @@ Data preprocessing for this project involved exploring the data and identifying 
 
 Exploratory data analysis was conducted, using descriptive statistics and visualisations to identify distributions, patterns, outliers, and correlations.
 
-A research review conducted by Bogdan and Zbigniew (2022) suggested that the most common machine learning models used in weather prediction and climate science research were Deep Learning, Random Forest, Artifical Neural Networks, Support Vector Machine and XGBoost, respectively. Random Forest Regressor, Support Vector Regressor and XGBoost were selected to predcit mean temperature in London. Experimental hyperparameter tuning took place to optimise model performance and the evaluation strategy consisted of using cross validation (k=5) and evaluation metrics including MSE, MAE, RMSE and R2.
+A research review conducted by Bogdan and Zbigniew (2022) suggested that the most common machine learning models used in weather prediction and climate science research were Deep Learning, Random Forest, Artifical Neural Networks, Support Vector Machine and XGBoost, respectively. Random Forest Regressor, Support Vector Regressor and Artifical Neural Networks (ANN) were selected to predict mean temperature in London. Experimental hyperparameter tuning took place to optimise model performance and the evaluation strategy consisted of using cross validation (k=5) and evaluation metrics including MSE, MAE, RMSE and R2.
 
-This is my current project, if you would like to see my code please follow the link below to the repository for the latest version.
+This is my current project, if you would like to see my code, please follow the link below to my repository for the latest versions.
 
 **_Outcome:_** 
 
