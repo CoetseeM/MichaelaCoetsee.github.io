@@ -2,11 +2,10 @@
 
 ## - Met Office Mean Temperature Prediction (current project)
   
-**_Task Description:_** The climate emergency needs urgent solutions. Machine learning is being increasingly implemented into weather services and climate research, increasing accuracy and providing new pathways to mitigation and adaptation. This project aimed to predict mean temperatures in London, to assess the ability of a range of machine learning models to accurately predict weather elements based on previous research findings.
+**_Task Description:_** Many primary sectors depend on the weather for production, such as farming and energy. The climate is changing at drastic rates making old weather prediction methods less effective. To overcome these difficulties, improved and reliable weather prediction methods are required. These predictions affect a nation's economy and the lives of people. Machine learning is being increasingly implemented into weather services and climate research, increasing accuracy and providing new pathways to mitigation and adaptation. This project aimed to predict mean temperatures in London, to assess the ability of a range of machine learning models to accurately predict weather elements based on previous research findings.
 
 
 **_Goal:_** To use machine learning pipelines to predict mean temperature (target variable) in London using minimum temperature, maximum temperature and rain (feature variables).
-
 
 **_Technologies:_** Scikit-learn, pandas, matplotlin, seaborn and git version control.
 
@@ -14,15 +13,15 @@
 
 Data preprocessing for this project involved exploring the data and identifying and handling missing values. Feature engineering techniques were also used to calculate the mean temperature to use as the target variable.
 
-Exploratory data analysis was then conducted using descriptive statistics and visualisations to identify distributions, patterns, outliers, and correlations.
+Exploratory data analysis was conducted, using descriptive statistics and visualisations to identify distributions, patterns, outliers, and correlations.
 
-Previous research suggested that ensemble regression methods such as Random Forest Regressor and Support Vector Regression were most accurate in temperture prediction. Hyperparameter tuning and cross-validation were employed to optimise model performance, with evaluation metrics including MSE, MAE, RMSE and R2.
+A research review conducted by Bogdan and Zbigniew (2022) suggested that the most common machine learning models used in weather prediction and climate science research were Deep Learning, Random Forest, Artifical Neural Networks, Support Vector Machine and XGBoost, respectively. Random Forest Regressor, Support Vector Regressor and XGBoost were selected to predcit mean temperature in London. Experimental hyperparameter tuning took place to optimise model performance and the evaluation strategy consisted of using cross validation (k=5) and evaluation metrics including MSE, MAE, RMSE and R2.
 
-The Random Forest Regressor emerged as the best-performing model, explaining 80.4% of the variance in London crime rates. Population density was identified as the most significant predictor of crime rates, followed by median income, according to Random Forest Regressor's feature importance analysis.
+This is my current project, if you would like to see my code please follow the link below to the repository for the latest version.
 
 **_Outcome:_** 
 
-**_Improvements:_** Due to data constraints there wasn't enough data to use more recent mean temperture data as the test set, this could improve the prediction of the model on more recent data so that the model can then be used for forecasting.
+**_Improvements:_** 
 
 **_Link to code:_** [Met Office Mean Temperture Prediction](https://github.com/CoetseeM/Met-Office-Temp-Prediction)
 
