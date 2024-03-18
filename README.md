@@ -8,13 +8,13 @@
 **_Goal:_** To use machine learning pipelines to predict mean temperature (target variable) in London using minimum temperature, maximum temperature and rain (feature variables).
 
 
-**_Technologies:_** Scikit-learn, pandas, matplotlin, seaborn and github version control.
+**_Technologies:_** Scikit-learn, pandas, matplotlin, seaborn and git version control.
 
 **_Method:_** The project utilised open-source Met Office data downloaded from kaggle (https://www.kaggle.com/datasets/muthuj7/weather-dataset) to predict recent mean temperatures in London. 
 
-Data preprocessing for this project involved exploring the data, identifying and handling missing values, and feature engineering techniques were used to calculate the mean temperature to use as the target variable.
+Data preprocessing for this project involved exploring the data and identifying and handling missing values. Feature engineering techniques were also used to calculate the mean temperature to use as the target variable.
 
-Exploratory data analysis was then conducted using descriptive statistics and visualisations to identify, distributions, patterns, outliers, and correlations.
+Exploratory data analysis was then conducted using descriptive statistics and visualisations to identify distributions, patterns, outliers, and correlations.
 
 Previous research suggested that ensemble regression methods such as Random Forest Regressor and Support Vector Regression were most accurate in temperture prediction. Hyperparameter tuning and cross-validation were employed to optimise model performance, with evaluation metrics including MSE, MAE, RMSE and R2.
 
