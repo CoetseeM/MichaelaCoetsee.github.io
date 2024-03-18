@@ -24,7 +24,7 @@ The Random Forest Regressor emerged as the best-performing model, explaining 80.
 
 **_Improvements:_** Due to data constraints there wasn't enough data to use more recent mean temperture data as the test set, this could improve the prediction of the model on more recent data so that the model can then be used for forecasting.
 
-**_Link to code:_** [Met Office Mean Temperture Prediction]()
+**_Link to code:_** [Met Office Mean Temperture Prediction](https://github.com/CoetseeM/Met-Office-Temp-Prediction)
 
 <br>
 <br>
